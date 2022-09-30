@@ -1853,3 +1853,6 @@ fig=sns.relplot(data=Hospital_Covid_PerCounty,x="people_per_bed",y="mortality",h
     
 ![png](output_16_0.png)
     
+
+
+![plot](/Users/henry/Documents/GitHub/trgn_assignment4/assignment4.png)
